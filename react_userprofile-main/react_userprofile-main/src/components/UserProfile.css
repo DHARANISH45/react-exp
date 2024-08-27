@@ -1,0 +1,90 @@
+/* src/components/UserProfile.css */
+
+.user-profile {
+    border: 1px solid #ddd;
+    padding: 20px;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .avatar {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .name {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  .email {
+    color: #555;
+    margin: 5px 0;
+  }
+  
+  .bio {
+    color: #777;
+  }
+  
+  .linkedin-info {
+    margin-top: 10px;
+    color: #0077b5;
+  }
+  
+  .linkedin-info a {
+    color: #0077b5;
+    text-decoration: none;
+  }
+  
+  .linkedin-info a:hover {
+    text-decoration: underline;
+  }
+  /* src/components/UserProfile.css */
+
+.user-profile {
+    border: 1px solid #ddd;
+    padding: 20px;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    background-color: #fff; /* White background for the profile card */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for better appearance */
+  }
+  
+  .avatar {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .name {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  .email {
+    color: #555;
+    margin: 5px 0;
+  }
+  
+  .bio {
+    color: #777;
+    margin: 10px 0;
+  }
+  
+  .linkedin-info {
+    margin-top: 10px;
+    color: #0077b5;
+  }
+  
+  .linkedin-info a {
+    color: #0077b5;
+    text-decoration: none;
+  }
+  
+  .linkedin-info a:hover {
+    text-decoration: underline;
+  }
+  
